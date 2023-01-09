@@ -9,7 +9,7 @@
 
 class Car : Vehicle  // derived class (child)
 {
-    public string modelName = "Mustang";  // Car field
+    public string modelName = "Ford Mustang";  // Car field
 }
 
 class Program
